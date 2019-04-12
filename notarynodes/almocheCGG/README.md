@@ -1,6 +1,6 @@
 # Proposal KMD NN Election 2019 almocheCGG 
 
-![Logo-CGG.png](./Logo-CGG.png)
+![Logo-CGG.png](https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/notarynodes/almocheCGG/Logo-CGG.png)
 
 # Intro #
 
@@ -55,4 +55,4 @@ RTX6GMdB6CUhUuNcmB7EDktYfst5fRqa18
  - [Website](https://coingain.guru)
  - [Twitter](https://twitter.com/COINGAINGURU)
  
-![CGG.jpg](./CGG.jpg)
+![CGG.jpg](https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/notarynodes/almocheCGG/CGG.jpg)
